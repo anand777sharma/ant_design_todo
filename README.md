@@ -30,8 +30,13 @@ Follow these steps to set up and run this project on your device:
    - Open your browser and go to the URL provided in the terminal (in my case `http://localhost:5173`).
 
 You are now ready to use the project!
+# ==========================================================================================================
+
+**in this project the add taks api is working but the data is not showing as we are not manuplating the jasonplaceholder dumy backend**
 
 # ===========================================================================================================
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
