@@ -1,3 +1,37 @@
+# Project Setup Instructions
+
+Follow these steps to set up and run this project on your device:
+
+1. **Download or Clone the Repository**
+   - Download the ZIP file of the project or clone it using the following command:
+     ```bash
+     git clone https://github.com/anand777sharma/ant_design_todo.git
+     ```
+
+2. **Navigate to the Project Directory**
+   - Move into the project directory:
+     ```bash
+     cd <project_directory>
+     ```
+
+3. **Install Dependencies**
+   - Run the following command to install all necessary dependencies:
+     ```bash
+     npm install
+     ```
+
+4. **Run the Development Server**
+   - Start the development server by running:
+     ```bash
+     npm run dev
+     ```
+
+5. **Access the Project**
+   - Open your browser and go to the URL provided in the terminal (in my case `http://localhost:5173`).
+
+You are now ready to use the project!
+
+# ===========================================================================================================
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
